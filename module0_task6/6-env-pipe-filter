@@ -1,2 +1,2 @@
-echo $TERM*
+printenv | grep "^[TERM]"
 
