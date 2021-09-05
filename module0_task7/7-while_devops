@@ -1,5 +1,5 @@
-contador=0
-while [contador<10]
+let contador=0
+while [$contador<10]
 do
   echo DevOps
   let contador=$contador+1
