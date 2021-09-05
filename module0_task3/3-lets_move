@@ -1,2 +1,2 @@
-mv [A-Z]* /tmp/u
+mv $(find [A-Z]*) /tmp/u
 
